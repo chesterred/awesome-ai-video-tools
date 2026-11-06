@@ -1,0 +1,12 @@
+{
+  "name": "pavoai/awesome-ai-video-tools",
+  "description": "Curated list of AI video generation, editing and dubbing tools, maintained by Pavo AI (https://pavoai.app).",
+  "type": "library",
+  "homepage": "https://pavoai.app",
+  "license": "CC0-1.0",
+  "keywords": ["ai", "video", "awesome-list", "text-to-video"],
+  "authors": [
+    { "name": "Pavo AI", "homepage": "https://pavoai.app" }
+  ],
+  "support": { "issues": "https://github.com/chesterred/awesome-ai-video-tools/issues" }
+}
