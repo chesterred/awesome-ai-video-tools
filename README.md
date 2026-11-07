@@ -18,6 +18,7 @@ A curated list of tools, models, and services for AI video generation, editing, 
 - Pika — short-clip generator with style presets.
 - Luma Dream Machine — hosted text/image-to-video.
 - Kling — hosted generation with motion control.
+- **[Cyanvid](https://cyanvid.com/?utm_source=chesterred-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks)** — AI video generator from text or images; credit quotes before generate.
 
 ## Editing and post-production
 
@@ -25,6 +26,7 @@ A curated list of tools, models, and services for AI video generation, editing, 
 - DaVinci Resolve — desktop editor with AI-assisted cut and tracking.
 - CapCut — consumer editor with auto-captions.
 - Descript — transcript-based editing.
+- **[Barz Studio](https://barzvideo.com/?utm_source=chesterred-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks)** — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 
 ## Voice, dubbing and lip-sync
 
