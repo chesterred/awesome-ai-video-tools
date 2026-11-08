@@ -14,6 +14,7 @@ A curated list of tools, models, and services for AI video generation, editing, 
 ## Video generation
 
 - **[Pavo AI](https://pavoai.app)** — hosted text-to-video / image-to-video workspace with presets for shorts, ads, and product clips.
+- [ReelAI](https://tryreelai.com/) — creates short AI videos from photos using templates; paid subscription.
 - Runway — hosted generation suite.
 - Pika — short-clip generator with style presets.
 - Luma Dream Machine — hosted text/image-to-video.
